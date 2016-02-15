@@ -57,7 +57,7 @@
             </div>
         </div>
     </nav>
-
+    @include("layouts.status")
     @yield('content')
 
     <!-- JavaScripts -->
